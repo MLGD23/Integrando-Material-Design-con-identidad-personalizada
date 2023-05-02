@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ejercicio_1</string>
+    <string name="titulo">Hola Bienvenido</string>
+    <string name="descripcion">Imagen del marcianito</string>
+</resources>

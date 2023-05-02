@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Übung 1</string>
+    <string name="titulo">Hallo, willkommen</string>
+    <string name="descripcion">Bild des kleinen Marsmenschen</string>
+</resources>
